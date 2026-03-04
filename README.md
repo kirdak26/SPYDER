@@ -1,4 +1,4 @@
-# SPIDY
+# SPIDY -Smart Platform for Intelligent DevOps & Systems
 Excellent. Now we move from idea → production system. 🚀
 I’ll give you all four, structured and practical — aligned with your DevOps + AI path.
 
